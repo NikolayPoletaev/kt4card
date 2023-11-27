@@ -1,0 +1,98 @@
+.Card{
+    position: relative;
+    width: fit-content;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.CardOne{
+    display: flex;
+    width: 388px;
+    height: 239px;
+    background-color: #ECECEC;
+    border-radius: 10px;
+}
+.spantxt{
+    color: #000000;
+    font-size: 15px;
+    margin-top: 11px;
+    display: flex;
+    margin-left: 31px;
+}
+.span{
+    color: #ADADAD;
+    font-size: 28px;
+    display: flex;
+    margin-left: 16px;
+    margin-right: 18px;
+    margin-top: 10px;
+}
+.TwoCard{
+    background-color: #C7C7C7;
+    width: 388px;
+    height: 239px;
+    position: absolute;
+    right: -120px;
+    z-index: -1;
+    bottom: -50px;
+    display: flex;
+}
+.cvc{
+    margin-top: 162px;
+    margin-left: 293px;
+}
+.cvc input{
+    width: 43px;
+    height: 22px;
+    border: solid 2px #ADADAD;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+.holder{
+    width: 294px;
+    height: 22px;
+    margin-top: 24px;
+    border: solid 2px #ADADAD;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+.number{
+    width: 294px;
+    height: 22px;
+    margin-top: 24px;
+    border: solid 2px #ADADAD;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.mm{
+    width: 43px;
+    height: 22px;
+    padding: 10px 15px;
+    border: solid 2px #ADADAD;
+    font-weight: bold;
+    margin-top: 7px;
+    display: flex;
+    margin-left: 31px;
+}
+.yy{
+    width: 43px;
+    height: 22px;
+    padding: 10px 15px;
+    border: solid 2px #ADADAD;
+    font-weight: bold;
+    display: flex;
+    margin-top: 7px;
+}
+.mmyy{
+    display: flex;
+}
+.mmyy img{
+    width: 112px;
+    height: 42px;
+    margin-top: 7px;
+    margin-left: 17px;
+}
+
+
+
+
